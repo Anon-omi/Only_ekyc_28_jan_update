@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2a91f245bf244c2f",
+    "username": "siyam",
+    "password": "12345",
+    "expiresAt": "2026-01-11",
+    "allowOffline": false 
+  },
+    {
+    "id": "ad74e9a009a77f7d",
+    "username": "anon",
+    "password": "anon123",
+    "expiresAt": "2026-12-31",
+    "allowOffline": false
+  }
+]
